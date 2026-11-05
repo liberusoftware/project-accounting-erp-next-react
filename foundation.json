@@ -1,9 +1,9 @@
 {
-  "project": "boilerplate",
+  "project": "accounting-erp",
   "presentation": "next-react",
   "foundation": "project-boilerplate-next-react",
-  "foundationCommit": null,
-  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md",
+  "foundationCommit": "c858d8a2611ae7acb0aedcec374ee408a02290b7",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/accounting/README.md",
   "status": "skeleton",
   "enabledModules": []
 }
