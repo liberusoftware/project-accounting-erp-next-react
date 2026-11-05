@@ -1,0 +1,9 @@
+{
+  "project": "boilerplate",
+  "presentation": "next-react",
+  "foundation": "project-boilerplate-next-react",
+  "foundationCommit": null,
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md",
+  "status": "skeleton",
+  "enabledModules": []
+}
